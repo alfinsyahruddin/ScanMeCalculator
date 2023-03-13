@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SCAN_SOURCE</key>
+	<string>${SCAN_SOURCE}</string>
+	<key>THEME</key>
+	<string>${THEME}</string>
+	<key>ENCRYPTION_KEY</key>
+	<string>${ENCRYPTION_KEY}</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Please allow camera permission for scanning!</string>
+</dict>
+</plist>

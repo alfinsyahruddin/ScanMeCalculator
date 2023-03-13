@@ -1,0 +1,16 @@
+//
+//  Config.xcconfig
+//  ScanMeCalculator
+//
+//  Created by Alfin on 12/03/23.
+//
+
+
+// red | green
+THEME = red
+
+// camera | photoLibrary
+SCAN_SOURCE = camera
+
+// Encryption Key
+ENCRYPTION_KEY = $C4NM3C4LCUL$T0R
